@@ -9,6 +9,16 @@
 #ifndef Typesetting_Typesetting_h
 #define Typesetting_Typesetting_h
 
+#import <UIKit/UIKit.h>
+
+//! Project version number for Typeset.
+FOUNDATION_EXPORT double TypesetVersionNumber;
+
+//! Project version string for Typeset.
+FOUNDATION_EXPORT const unsigned char TypesetVersionString[];
+
+
+
 #import "TypesetKit.h"
 #import "TypesetKit+Color.h"
 #import "TypesetKit+Match.h"
